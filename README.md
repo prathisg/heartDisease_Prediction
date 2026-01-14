@@ -62,4 +62,4 @@ KNN achieved the highest accuracy among the tested models.
 ```bash
 git clone https://github.com/prathisg/Heart-Disease-Prediction.git
 
-2.open in Jupter notebook and run all cells
+
